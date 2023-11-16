@@ -42,10 +42,10 @@
 				"redhat.java",
 				"sonarsource.sonarlint-vscode",
 				"vscjava.vscode-java-pack",
-				"vmware.vscode-boot-dev-pack",
 				"mhutchie.git-graph",
 				"MS-CEINTL.vscode-language-pack-de",
-				"streetsidesoftware.code-spell-checker-german"
+				"streetsidesoftware.code-spell-checker-german",
+				"Venthe.fauxpilot"
 			]
 		}
 	}
